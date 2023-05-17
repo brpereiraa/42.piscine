@@ -4,7 +4,7 @@ CC = gcc
 
 CFLAGS = -Wall -Wextra -Werror
 
-SRC = main.c run.c info.c map.c square.c
+SRC = src/main.c src/run.c src/info.c src/map.c src/square.c
 
 all: $(NAME)
 
