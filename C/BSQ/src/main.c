@@ -43,7 +43,7 @@ int	main(int argc, char **argv)
 	}
 	else
 	{
-		run_default("example_file");
+		run_default("maps/example_file");
 	}
 	return (0);
 }
